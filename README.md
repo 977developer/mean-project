@@ -6,5 +6,6 @@ This is a MEAN stack application that uses web tokens for authentication(JWT). C
 
 ### Installation
 Navigate to the root folder and install the dependencies.
+
 $ npm install
 $ npm start
